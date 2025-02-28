@@ -4,4 +4,5 @@
 - [C和指针](Pointers.On.C)
 - [C语言核心技术](C.In.A.Nutshell)
 - [C语言程序设计:现代方法](C.Programming.Modern.Approach)
+- [流利的C语言](Fluent.C)
 
